@@ -1,0 +1,24 @@
+﻿body {
+}
+
+#form1 div #divDpMembInfo #dpMembInfo > span,a[href="javascript:__doPostBack('dpMembInfo$ctl01$ctl02','')"] {
+    border: 1px solid #ccc;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none;
+    color: #666;
+    height: 26px;
+    line-height: 26px;
+    text-decoration: none;
+    margin: 0 0 6px 6px;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+
+input[type="text"]:enabled #form1 div #divDpMembInfo #dpMembInfo > span, a[href="javascript:__doPostBack('dpMembInfo$ctl01$ctl02','')"]:hover {
+    background: #5a98de;
+    color: #fff;
+}

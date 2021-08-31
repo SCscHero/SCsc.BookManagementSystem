@@ -1,0 +1,19 @@
+﻿.heroheroClassClass {
+    line-height: 32px !important;
+    padding-left: 26px !important;
+    border-bottom: none !important;
+    font-weight: normal !important;
+    text-align: -webkit-match-parent !important;
+    min-height: 100%;
+    position: relative;
+    font-size: 14px;
+    min-height: 100%;
+    display: block;
+    font-weight: bold;
+    margin: 0;
+}
+
+    .heroheroClassClass:hover {
+        color: #148cf1;
+        background-color: #fafafa !important;
+    }

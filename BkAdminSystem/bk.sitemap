@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="图书管理系统"  description="">
+
+      <siteMapNode url="" title="操作员管理"  description="">
+        <siteMapNode url="" title="操作员"  description="" />
+        <siteMapNode url="" title="菜单权限控制"  description="" />
+      </siteMapNode>
+
+      <siteMapNode url="" title="书籍信息管理"  description="">
+        <siteMapNode url="" title="会员信息"  description="" />
+        <siteMapNode url="" title="图书状态"  description="" />
+        <siteMapNode url="" title="图书信息"  description="" />
+        <siteMapNode url="" title="借书管理"  description="" />
+        <siteMapNode url="" title="还书管理"  description="" />
+        <siteMapNode url="" title="书籍查询"  description="" />
+      </siteMapNode>
+
+      <siteMapNode url="" title="系统设置"  description="">
+        <siteMapNode url="" title="修改密码"  description="" />
+        <siteMapNode url="" title="个人中心"  description="" />
+      </siteMapNode>
+      
+      <siteMapNode url="" title="注销系统" description=""/>
+    </siteMapNode>
+</siteMap>

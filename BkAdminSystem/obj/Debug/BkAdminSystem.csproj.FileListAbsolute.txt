@@ -1,0 +1,68 @@
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\ApplicationInsights.config
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\csc.exe
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\vbc.exe
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\VBCSCompiler.exe
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.dll.config
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.pdb
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.DependencyCollector.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Web.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.WindowsServer.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.ApplicationInsights.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.DependencyCollector.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Web.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.WindowsServer.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.ApplicationInsights.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.dll
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.pdb
+F:\Backups User FIles\桌面\rwx - C#培训\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.csprojResolveAssemblyReference.cache
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\ApplicationInsights.config
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\csc.exe
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\vbc.exe
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\VBCSCompiler.exe
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.dll.config
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\BkAdminSystem.pdb
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Web.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.ApplicationInsights.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.Web.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.ApplicationInsights.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.csprojAssemblyReference.cache
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.csproj.CopyComplete
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.dll
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.pdb
+D:\00002.任我行公司文件\00002.图书管理系统\图书管理系统项目\zsc\BkAdminSystem\BkAdminSystem\obj\Debug\BkAdminSystem.csproj.CoreCompileInputs.cache

@@ -1,0 +1,58 @@
+﻿.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.clr {
+    clear: both;
+}
+
+.divItem {
+    margin-bottom: 4px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed #eaeaea;
+}
+
+    .divItem:hover {
+        background-color: #efefef;
+    }
+
+    .divItem img {
+        width: 100px;
+        height: 100px;
+        padding: 3px;
+        border: 1px solid #eaeaea;
+    }
+
+    .divItem h2 {
+        font-family: 微软雅黑;
+        font-size: 16px;
+        color: #666;
+        padding: 4px 0px 5px 10px;
+    }
+
+    .divItem p {
+        padding: 15px;
+    }
+
+    .divItem .pDt {
+        font-size: 12px;
+        color: Gray;
+    }
+
+    .divItem .pA {
+        text-align: right;
+    }
+
+    .divItem a {
+        font-size: 12px;
+        color: Gray;
+        text-decoration: underline;
+    }
+
+        .divItem a:hover {
+            color: Red;
+        }

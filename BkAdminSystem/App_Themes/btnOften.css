@@ -1,0 +1,87 @@
+﻿.btnRed {
+    color: #fff;
+    background-color: #dd514c;
+    border-color: #dd514c;
+    line-height: 21px;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 400;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: solid 1px #ddd;
+    width: auto;
+    transition: background-color .1s linear;
+    padding: 4px 12px;
+    font-size: 14px;
+    height: 31px;
+    border-radius: 4px;
+    outline: 0;
+}
+
+.btnBlue {
+    text-decoration: none;
+    color: #fff;
+    background-color: #0a6999;
+    border-color: #0a6999;
+    line-height: 21px;
+    outline: 0;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 400;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: solid 1px #ddd;
+    transition: background-color .1s linear;
+    padding: 4px 12px;
+    font-size: 14px;
+    height: 31px;
+    border-radius: 4px;
+    word-wrap: break-word;
+}
+
+.dateBeau {
+    background-image: url(../App_Images/BookState/datePicker.jpg);
+    background-repeat: no-repeat;
+    background-position: 98% center;
+}
+
+.dateWidHei {
+    width: 120px;
+    height: 31px;
+    line-height: 1.42857;
+    -webkit-appearance: none;
+    outline: 0px;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221);
+    border-image: initial;
+    transition: all 0.2s linear 0s;
+    font-size: 14px;
+    height: 31px;
+    line-height: 1.42857;
+    padding: 4px;
+    vertical-align: middle;
+    overflow: visible;
+    font-style: inherit;
+    font-weight: inherit;
+    word-wrap: break-word;
+    cursor: text;
+}
+
+.divBeau {
+    background-color: #f5fafe;
+    border: solid 1px #eee;
+    padding: 5px;
+    margin-top: 20px;
+    display: block;
+    font-size: 14px;
+    color: #333;
+    line-height: 1.6;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    clear: both;
+}

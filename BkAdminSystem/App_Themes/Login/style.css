@@ -1,0 +1,63 @@
+﻿/*#btnLogin {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #fff;
+    background: #1c4eda;
+    border: 3px solid #1c4eda;
+    outline: none;
+    cursor: pointer;
+    padding: .6em 1em;
+    -webkit-appearance: none;
+    width: 100%;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    line-height: normal !important;
+        -webkit-appearance: none;
+    outline: 0;
+        line-height: normal !important;
+        -webkit-appearance: none;
+    outline: 0;
+        font-family: "Microsoft Yahei","Hiragino Sans GB","Helvetica Neue",Helvetica,tahoma,arial,"WenQuanYi Micro Hei",Verdana,sans-serif,"\5B8B\4F53";
+    font-size: 12px;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow: visible;
+    vertical-align: middle;
+    outline: 0;
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+        align-items: flex-start;
+    text-align: center;
+        word-wrap: break-word;
+            user-select: none;
+    white-space: pre;
+    -webkit-rtl-ordering: logical;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial
+}
+
+    #btnLogin:hover {
+        background: #fff;
+        color: #1c4eda;
+        border-color: #1c4eda;
+        transition: 0.5s all;
+        -webkit-transition: 0.5s all;
+        -moz-transition: 0.5s all;
+        -o-transition: 0.5s all;
+        -ms-transition: 0.5s all;
+    }*/

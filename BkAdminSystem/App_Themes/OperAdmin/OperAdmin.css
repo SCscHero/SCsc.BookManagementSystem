@@ -1,0 +1,11 @@
+﻿/*
+    个人想要的效果
+*/
+.heroInput {
+    -webkit-tap-highlight-color: #333;
+    background-color: rgba(255,0,0,0);
+    border: none;
+}
+.heroInput:hover{
+    color: #06c;
+}
